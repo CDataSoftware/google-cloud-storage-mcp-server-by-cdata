@@ -1,7 +1,7 @@
 # google-cloud-storage-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Google Cloud Storage
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Google Cloud Storage (beta)](https://www.cdata.com/download/download.aspx?sku=HPZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Google Cloud Storage (beta)](https://www.cdata.com/download/download.aspx?sku=HPZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Google Cloud Storage supported by the [CData JDBC Driver for Google Cloud Storage](https://www.cdata.com/drivers/googlecloudstorage/jdbc).
 
